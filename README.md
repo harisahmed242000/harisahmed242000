@@ -6,10 +6,7 @@
 # Haris Ahmed
 ### Penetration Tester | VAPT | Cybersecurity Analyst
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=39FF14&center=true&vCenter=true&width=650&lines=Breaking+things+to+understand+how+they+hold+together+%F0%9F%94%93;OSCP%2B+Certified+%7C+Offensive+Security;Active+Directory+%7C+Cloud+%7C+Web+%2F+Mobile+Pentesting;Always+lab-ing%2C+always+learning" alt="Typing SVG" />
-</a>
-
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=39FF14&center=true&vCenter=true&width=650&lines=Breaking+things+to+understand+how+they+hold+together+%F0%9F%94%93;OSCP%2B+Certified+%7C+Offensive+Security;Active+Directory+%7C+Cloud+%7C+Web+%2F+Mobile+Pentesting;Always+lab-ing%2C+always+learning" alt="Typing SVG" /> </a> <br/>
 <br/>
 
 <a href="https://linkedin.com/in/REPLACE-ME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
