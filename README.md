@@ -69,12 +69,41 @@
 
 ## 🏅 Certifications
 
-<p align="left">
-<img src="https://img.shields.io/badge/OSCP%2B-OffSec%20Certified%20Professional%2B-000000?style=for-the-badge&logo=offsec&logoColor=white"/>
-<img src="https://img.shields.io/badge/eCPPTv2-eLearnSecurity%20Certified%20Professional%20Pentester-3D5A80?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Offensive%20Python%20Developer-Coursera-blue?style=for-the-badge&logo=coursera&logoColor=white"/>
-<img src="https://img.shields.io/badge/Software%20Engineering%20Diploma-Aptech-orange?style=for-the-badge"/>
-</p>
+<table>
+<tr>
+
+<td align="center" width="170">
+<a href="https://www.credly.com/users/REPLACE-ME">
+<img src="assets/oscp-plus-badge.png" width="85"/>
+</a>
+<br/>
+<img src="https://img.shields.io/badge/OSCP%2B-000000?style=for-the-badge&labelColor=000000&color=B10000"/>
+</td>
+
+<td align="center" width="170">
+<a href="https://www.credly.com/users/REPLACE-ME">
+<img src="assets/ecpptv2-badge.png" width="85"/>
+</a>
+<br/>
+<img src="https://img.shields.io/badge/eCPPTv2-1B3A57?style=for-the-badge&labelColor=1B3A57&color=F26924"/>
+</td>
+
+<td align="center" width="170">
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=coursera&logoColor=0056D2"/>
+<br/>
+<sub><b>Offensive Python Developer</b><br/>Coursera</sub>
+</td>
+
+<td align="center" width="170">
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=white"/>
+<br/>
+<sub><b>Software Engineering Diploma</b><br/>Aptech</sub>
+</td>
+
+</tr>
+</table>
+
+> **To get the real logos showing:** open your OSCP+ and eCPPTv2 credentials on Credly (or your OffSec/INE certificate page), right-click the badge image → Save Image, then upload the two files into a new `assets/` folder in this repo as `oscp-plus-badge.png` and `ecpptv2-badge.png`. The table above already points to those paths — as soon as the files exist, the actual badge artwork shows up instead of a blank link. Swap `REPLACE-ME` for your real Credly profile/verification URLs too.
 
 > Replace the badge links above with your actual Credly / OffSec verification URLs so each one is clickable proof, the same way the certifications section worked in the profile this was inspired by.
 
