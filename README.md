@@ -9,12 +9,7 @@
 ### **HARIS AHMED**
 
 **Penetration Tester · VAPT · Cybersecurity Analyst**
-
 <br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1400&color=B11226&center=true&vCenter=true&width=750&lines=攻めて理解する+%7C+Attack+to+Understand;Penetration+Testing+%7C+VAPT+%7C+Red+Team;Active+Directory+%7C+Cloud+%7C+Web+%7C+Mobile;Recon.+Exploit.+Escalate.+Report.;Always+lab-ing.+Always+learning." alt="Typing SVG"/>
-
-<br><br>
 
 <a href="https://linkedin.com/in/REPLACE-ME">
 <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -219,44 +214,6 @@ My primary areas of interest are **Active Directory, cloud security, web applica
 </table>
 
 <br>
-
-
-
-# 📌 PINNED PROJECTS
-
-My pinned repositories represent the areas I want my profile to communicate most strongly:
-
-<div align="center">
-
-### 🔴 Offensive Security
-
-Penetration testing tools, scripts, methodologies and security research.
-
-### ⚔️ Active Directory
-
-Attack-path analysis, enumeration, privilege escalation and lab environments.
-
-### ☁️ Cloud Security
-
-AWS security research, IAM analysis and cloud attack paths.
-
-### 🧪 Security Labs
-
-CTF solutions, OffSec labs, experimentation and technical notes.
-
-### 🧰 Security Automation
-
-Python, Bash and PowerShell tooling designed to automate repetitive security tasks.
-
-### 📚 Research & Write-ups
-
-Technical security research, vulnerability analysis and lessons learned.
-
-</div>
-
-<br>
-
----
 
 # 📝 SECURITY PHILOSOPHY
 
