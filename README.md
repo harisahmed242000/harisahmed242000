@@ -2,6 +2,7 @@
 
 <img src="assets/samurai-banner.svg" width="100%"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 # Haris Ahmed
 ### Penetration Tester | VAPT | Cybersecurity Analyst
 
@@ -107,14 +108,6 @@ GitHub will surface your pinned repos automatically right below this README. Wor
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harisahmed242000&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
