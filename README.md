@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Haris%20Ahmed&fontSize=44&fontColor=39FF14&animation=fadeIn&fontAlignY=36&desc=Penetration%20Tester%20%7C%20Cybersecurity%20Analyst&descAlignY=56&descSize=18&descColor=E0E0E0" width="100%"/>
+<img src="assets/samurai-banner.svg" width="100%"/>
+
+# Haris Ahmed
+### Penetration Tester | VAPT | Cybersecurity Analyst
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=39FF14&center=true&vCenter=true&width=650&lines=Breaking+things+to+understand+how+they+hold+together+%F0%9F%94%93;OSCP%2B+Certified+%7C+Offensive+Security;Active+Directory+%7C+Cloud+%7C+Web+%2F+Mobile+Pentesting;Always+lab-ing%2C+always+learning" alt="Typing SVG" />
@@ -67,45 +70,13 @@
 
 <br/>
 
-## 🏅 Certifications
+## 🏅 Some Certifications
 
-<table>
-<tr>
+<p align="left">
+<a href="https://credentials.offsec.com/4dff422e-bd5c-48b6-949d-1475a373dca4#acc.YwQKIlye"><img src="https://templates.images.credential.net/17303012308215729956811213381538.png" height="100"/></a>
+<a href="https://credentials.offsec.com/add9afea-3d94-46ac-aef7-b3d9471833c4#acc.mupHybcQ"><img src="https://templates.images.credential.net/1677682410975725023965573912354.png" height="100"/></a>
+<a href="https://certs.ine.com/5cb5c75a-4aab-4502-9165-1e3969b03fb2#acc.CgpOAYwF"><img src="https://templates.images.credential.net/16917718658110002189401622818270.png" height="100"/></a>
 
-<td align="center" width="170">
-<a href="https://www.credly.com/users/REPLACE-ME">
-<img src="assets/oscp-plus-badge.png" width="85"/>
-</a>
-<br/>
-<img src="https://img.shields.io/badge/OSCP%2B-000000?style=for-the-badge&labelColor=000000&color=B10000"/>
-</td>
-
-<td align="center" width="170">
-<a href="https://www.credly.com/users/REPLACE-ME">
-<img src="assets/ecpptv2-badge.png" width="85"/>
-</a>
-<br/>
-<img src="https://img.shields.io/badge/eCPPTv2-1B3A57?style=for-the-badge&labelColor=1B3A57&color=F26924"/>
-</td>
-
-<td align="center" width="170">
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=coursera&logoColor=0056D2"/>
-<br/>
-<sub><b>Offensive Python Developer</b><br/>Coursera</sub>
-</td>
-
-<td align="center" width="170">
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=white"/>
-<br/>
-<sub><b>Software Engineering Diploma</b><br/>Aptech</sub>
-</td>
-
-</tr>
-</table>
-
-> **To get the real logos showing:** open your OSCP+ and eCPPTv2 credentials on Credly (or your OffSec/INE certificate page), right-click the badge image → Save Image, then upload the two files into a new `assets/` folder in this repo as `oscp-plus-badge.png` and `ecpptv2-badge.png`. The table above already points to those paths — as soon as the files exist, the actual badge artwork shows up instead of a blank link. Swap `REPLACE-ME` for your real Credly profile/verification URLs too.
-
-> Replace the badge links above with your actual Credly / OffSec verification URLs so each one is clickable proof, the same way the certifications section worked in the profile this was inspired by.
 
 <br/>
 
