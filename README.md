@@ -55,10 +55,10 @@ My primary areas of interest are **Active Directory, cloud security, web applica
 * 🎓 **BS Computer Science** — NED University of Engineering & Technology, Karachi `2020–2024`
 * 🏆 **OSCP+** · **eCPPTv2** · Offensive Python Developer · Aptech Software Engineering Diploma
 * 🩸 Building and attacking custom **Active Directory labs**
-* 🧠 Working with **BloodHound CE, NetExec, Impacket and offensive security tooling**
+* 🧠 Working with **BloodHound CE, NetExec, Impacket, and offensive security tooling**
 * ☁️ Exploring **AWS security, IAM attack paths, S3 enumeration and privilege escalation**
-* 📱 Exploring **Android security, APK reverse engineering, Frida and MobSF**
-* 💼 Junior Penetration Tester experience with previous **network/security experience in pharma IT**
+* 📱 Exploring **Android & IOS, APK reverse engineering, Frida and MobSF**
+* 💼 Junior Penetration Tester At RiskAssociates**
 * 🌍 Open to **full-time, remote and freelance offensive security opportunities**
 
 <br>
